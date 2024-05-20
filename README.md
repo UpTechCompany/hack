@@ -1,4 +1,4 @@
-#Individual reading:
+# Individual reading:
 
 **Review of "The Stainless Steel Rat" by Harry Harrison**
 
