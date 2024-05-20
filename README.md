@@ -1,26 +1,31 @@
 # Individual reading:
 
-**Review of "The Stainless Steel Rat" by Harry Harrison**
+### Review of "The Stainless Steel Rat" by Harry Harrison
 
 "The Stainless Steel Rat" by Harry Harrison is a fascinating science fiction novel that captures the reader's imagination with its unique blend of humor, adventure, and clever storytelling. This book introduces us to the main character, James Bolivar diGriz, also known as Slippery Jim or The Stainless Steel Rat, who is a master criminal turned special agent.
 
-**Plot Summary:**
+### Plot Summary
+
 The story is set in a distant future where humanity has spread across the galaxy. James diGriz is a cunning and skilled thief who has always managed to stay one step ahead of the law. However, his luck runs out when he is finally caught by the Special Corps, a powerful law enforcement agency. Instead of being punished, he is offered a job to work for them, using his criminal skills to catch even more dangerous criminals.
 
 Jim's first mission as an agent is to track down a ruthless villain who has been causing chaos throughout the galaxy. As he embarks on this mission, we see Jim's cleverness and resourcefulness in action. He uses his knowledge of criminal activities and his quick thinking to outsmart his enemies and achieve his goals.
 
-**Characters:**
+### Characters
+
 James Bolivar diGriz is the central character of the story. He is charming, witty, and always has a trick up his sleeve. Despite being a criminal, he has a sense of honor and a unique moral code, which makes him a very likable character. His interactions with other characters, such as his mentor Harold Peters Inskipp, add depth to the story and provide moments of humor and insight.
 
 Inskipp, who initially captures Jim, becomes an important figure in his life, guiding him and providing him with the resources he needs to succeed in his new role as a special agent. The dynamic between Jim and Inskipp is one of the highlights of the book, showcasing a mix of mutual respect and clever banter.
 
-**Themes:**
+### Themes
+
 One of the main themes of "The Stainless Steel Rat" is the idea of redemption and transformation. Jim's journey from a wanted criminal to a respected agent shows that people can change and use their skills for good. The book also explores the concept of freedom versus control, as Jim constantly struggles with the rules imposed by the Special Corps while trying to maintain his independence.
 
-**Writing Style:**
+### Writing Style
+
 Harry Harrison's writing style is engaging and easy to follow. He combines fast-paced action with witty dialogue and detailed descriptions of futuristic technology and settings. The humor in the book is clever and adds a lighthearted tone to the adventurous plot. Harrison's ability to create a believable and intriguing futuristic world is impressive, making the reader feel fully immersed in the story.
 
-**Conclusion:**
+### Conclusion
+
 "The Stainless Steel Rat" is a captivating and enjoyable read that will appeal to fans of science fiction and adventure. Harry Harrison has created a memorable character in James diGriz, whose exploits and cleverness make for an entertaining story. The book's combination of humor, action, and thought-provoking themes makes it a standout in the genre. If you're looking for a fun and engaging sci-fi novel, "The Stainless Steel Rat" is definitely worth picking up.
 
 # Course Area
