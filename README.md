@@ -1,32 +1,161 @@
 # Individual reading:
+## Review
+"Stainless Steel Rat" by Harry Harrison is a dynamic and captivating book, telling the adventures of Jim diGriz, a talented crook and thief. The plot develops quickly: Jim plans and executes complex heists, showing his cleverness and ability to get out of tangled situations. His plans don't always go smoothly, and he has to improvise, which adds tension and unpredictability to the story. The characters are bright and memorable, and the atmospheric descriptions immerse you in the world of crime and adventure.
 
-### Review of "The Stainless Steel Rat" by Harry Harrison
+However, the book isn't without its flaws. Some scenes seem dragged out, and Jim's actions aren't always logical. The dialogues between characters sometimes sound unnatural, making it hard to fully immerse in the story. Nevertheless, thanks to the originality of the plot and continuous action, the book leaves a positive impression. "Stainless Steel Rat" is an exciting journey worth attention for fans of science fiction and adventure.
 
-"The Stainless Steel Rat" by Harry Harrison is a fascinating science fiction novel that captures the reader's imagination with its unique blend of humor, adventure, and clever storytelling. This book introduces us to the main character, James Bolivar diGriz, also known as Slippery Jim or The Stainless Steel Rat, who is a master criminal turned special agent.
+## Vocabulary
 
-### Plot Summary
+1. **Antithesis** (Антитеза)
+   - The antithesis of light is darkness. (Антитеза света - тьма.)
+   - His behavior was the antithesis of what was expected. (Его поведение было антитезой тому, что ожидалось.)
 
-The story is set in a distant future where humanity has spread across the galaxy. James diGriz is a cunning and skilled thief who has always managed to stay one step ahead of the law. However, his luck runs out when he is finally caught by the Special Corps, a powerful law enforcement agency. Instead of being punished, he is offered a job to work for them, using his criminal skills to catch even more dangerous criminals.
+2. **Conundrum** (Головоломка, дилемма)
+   - Solving this conundrum requires creative thinking. (Для решения этой головоломки требуется креативное мышление.)
+   - He faced a moral conundrum at work. (Он столкнулся с моральной дилеммой на работе.)
 
-Jim's first mission as an agent is to track down a ruthless villain who has been causing chaos throughout the galaxy. As he embarks on this mission, we see Jim's cleverness and resourcefulness in action. He uses his knowledge of criminal activities and his quick thinking to outsmart his enemies and achieve his goals.
+3. **Ephemeral** (Эфемерный, мимолетный)
+   - The beauty of the ephemeral flowers captivated everyone. (Красота эфемерных цветов заворожила всех.)
+   - Childhood is an ephemeral period in one's life. (Детство - это мимолетный период в жизни.)
 
-### Characters
+4. **Extrapolate** (Экстраполировать)
+   - Scientists can extrapolate future trends from current data. (Ученые могут экстраполировать будущие тенденции на основе текущих данных.)
+   - It is difficult to extrapolate the results to a larger population. (Трудно экстраполировать результаты на более широкую популяцию.)
 
-James Bolivar diGriz is the central character of the story. He is charming, witty, and always has a trick up his sleeve. Despite being a criminal, he has a sense of honor and a unique moral code, which makes him a very likable character. His interactions with other characters, such as his mentor Harold Peters Inskipp, add depth to the story and provide moments of humor and insight.
+5. **Ineffable** (Невыразимый)
+   - The beauty of the sunset was ineffable. (Красота заката была невыразимой.)
+   - He felt an ineffable joy upon seeing his newborn child. (Он испытал невыразимую радость, увидев своего новорожденного ребенка.)
 
-Inskipp, who initially captures Jim, becomes an important figure in his life, guiding him and providing him with the resources he needs to succeed in his new role as a special agent. The dynamic between Jim and Inskipp is one of the highlights of the book, showcasing a mix of mutual respect and clever banter.
+6. **Nefarious** (Гнусный, злодейский)
+   - The villain's nefarious plans were finally revealed. (Злодейские планы злодея наконец-то были раскрыты.)
+   - He was involved in a nefarious scheme to defraud the company. (Он был вовлечен в гнусный план по мошенничеству с компанией.)
 
-### Themes
+7. **Obfuscate** (Запутывать, усложнять)
+   - The politician's speech was meant to obfuscate the issue. (Речь политика была направлена на то, чтобы запутать вопрос.)
+   - Technical jargon can often obfuscate the true meaning. (Технический жаргон часто может запутывать истинный смысл.)
 
-One of the main themes of "The Stainless Steel Rat" is the idea of redemption and transformation. Jim's journey from a wanted criminal to a respected agent shows that people can change and use their skills for good. The book also explores the concept of freedom versus control, as Jim constantly struggles with the rules imposed by the Special Corps while trying to maintain his independence.
+8. **Paradigm** (Парадигма)
+   - The new theory represents a paradigm shift in science. (Новая теория представляет собой сдвиг парадигмы в науке.)
+   - She challenged the traditional paradigm of education. (Она бросила вызов традиционной парадигме образования.)
 
-### Writing Style
+9. **Pernicious** (Пагубный)
+   - The pernicious influence of fake news is hard to counter. (Пагубное влияние фейковых новостей трудно преодолеть.)
+   - Smoking has a pernicious effect on health. (Курение оказывает пагубное воздействие на здоровье.)
 
-Harry Harrison's writing style is engaging and easy to follow. He combines fast-paced action with witty dialogue and detailed descriptions of futuristic technology and settings. The humor in the book is clever and adds a lighthearted tone to the adventurous plot. Harrison's ability to create a believable and intriguing futuristic world is impressive, making the reader feel fully immersed in the story.
+10. **Quintessential** (Воплощение, квинтэссенция)
+    - She is the quintessential example of grace and beauty. (Она является воплощением грации и красоты.)
+    - This dish is the quintessential Italian pasta. (Это блюдо - квинтэссенция итальянской пасты.)
 
-### Conclusion
+11. **Serendipity** (Счастливая случайность)
+    - They found the restaurant by sheer serendipity. (Они нашли ресторан по чистой счастливой случайности.)
+    - Serendipity led to the discovery of the new drug. (Счастливая случайность привела к открытию нового лекарства.)
 
-"The Stainless Steel Rat" is a captivating and enjoyable read that will appeal to fans of science fiction and adventure. Harry Harrison has created a memorable character in James diGriz, whose exploits and cleverness make for an entertaining story. The book's combination of humor, action, and thought-provoking themes makes it a standout in the genre. If you're looking for a fun and engaging sci-fi novel, "The Stainless Steel Rat" is definitely worth picking up.
+12. **Superfluous** (Излишний)
+    - The report was filled with superfluous details. (Отчет был наполнен излишними деталями.)
+    - Removing the superfluous text made the article clearer. (Удаление излишнего текста сделало статью более понятной.)
+
+13. **Sycophant** (Льстец, подхалим)
+    - He surrounded himself with sycophants who never criticized him. (Он окружил себя льстецами, которые никогда его не критиковали.)
+    - The sycophant always agreed with the boss to gain favor. (Подхалим всегда соглашался с начальником, чтобы заслужить благосклонность.)
+
+14. **Ubiquitous** (Вездесущий)
+    - Smartphones have become ubiquitous in modern society. (Смартфоны стали вездесущими в современном обществе.)
+    - The smell of coffee was ubiquitous in the café. (Запах кофе был вездесущ в кафе.)
+
+15. **Vicissitudes** (Перипетии, превратности)
+    - They faced the vicissitudes of life with courage. (Они смело встречали перипетии жизни.)
+    - The novel explores the vicissitudes of a family's fortunes. (Роман исследует превратности судьбы семьи.)
+
+16. **Zealous** (Рьяный, усердный)
+    - She was zealous in her efforts to win the competition. (Она была рьяна в своих усилиях выиграть соревнование.)
+    - The zealous fans cheered loudly for their team. (Усердные фанаты громко болели за свою команду.)
+
+17. **Cacophony** (Какофония)
+    - The cacophony of the city streets was overwhelming. (Какофония городских улиц была ошеломляющей.)
+    - The band produced a cacophony of sound during rehearsal. (Группа произвела какофонию звуков во время репетиции.)
+
+18. **Discombobulate** (Смущать, приводить в замешательство)
+    - The unexpected news discombobulated him. (Неожиданные новости смутили его.)
+    - The constant changes at work can discombobulate employees. (Постоянные изменения на работе могут приводить сотрудников в замешательство.)
+
+19. **Esoteric** (Эзотерический, узкоспециальный)
+    - The lecture was filled with esoteric references. (Лекция была наполнена эзотерическими ссылками.)
+    - Only a few people understood the esoteric joke. (Только несколько человек поняли эзотерическую шутку.)
+
+20. **Impetuous** (Импульсивный, поспешный)
+    - His impetuous decision caused many problems. (Его импульсивное решение вызвало много проблем.)
+    - She was known for her impetuous nature. (Она была известна своей импульсивной натурой.)
+
+21. **Inequity** (Несправедливость, неравенство)
+    - The inequity in wages sparked protests. (Несправедливость в зарплатах вызвала протесты.)
+    - They fought against the social inequity in their community. (Они боролись против социального неравенства в своем сообществе.)
+
+22. **Juxtapose** (Сопоставлять, размещать рядом)
+    - The artist juxtaposed bright colors with dark shades. (Художник сопоставил яркие цвета с темными оттенками.)
+    - The film juxtaposes modern and traditional values. (Фильм сопоставляет современные и традиционные ценности.)
+
+23. **Lugubrious** (Мрачный, скорбный)
+    - His lugubrious tone made everyone feel sad. (Его мрачный тон заставил всех почувствовать грусть.)
+    - The lugubrious weather matched his mood. (Мрачная погода соответствовала его настроению.)
+
+24. **Obsequious** (Угодливый, подобострастный)
+    - The obsequious waiter annoyed the guests. (Угодливый официант раздражал гостей.)
+    - Her obsequious behavior made her seem insincere. (Ее подобострастное поведение делало ее неискренней.)
+
+25. **Ostentatious** (Показной, нарочитый)
+    - The ostentatious display of wealth was off-putting. (Показная демонстрация богатства была отталкивающей.)
+    - He wore an ostentatious outfit to the party. (Он надел нарочито яркий наряд на вечеринку.)
+
+26. **Perfunctory** (Поверхностный, небрежный)
+    - His perfunctory apology didn't seem sincere. (Его поверхностное извинение не казалось искренним.)
+    - She gave a perfunctory nod and moved on. (Она небрежно кивнула и пошла дальше.)
+
+27. **Recalcitrant** (Непокорный, упрямый)
+    - The recalcitrant student refused to follow the rules. (Непокорный студент отказался следовать правилам.)
+    - They dealt with the recalcitrant employees sternly. (Они строго обошлись с упрямыми сотрудниками.)
+
+28. **Sanguine** (Оптимистичный, жизнерадостный)
+    - She remained sanguine despite the setbacks. (Она оставалась оптимистичной, несмотря на неудачи.)
+    - He has a sanguine outlook on life. (У него жизнерадостный взгляд на жизнь.)
+
+29. **Surreptitious** (Скрытый, тайный)
+    - He took a surreptitious glance
+
+ at the exam paper. (Он тайно взглянул на экзаменационный лист.)
+    - Their surreptitious meetings were soon discovered. (Их тайные встречи вскоре были обнаружены.)
+
+30. **Tantamount** (Равносильный)
+    - His silence was tantamount to an admission of guilt. (Его молчание было равносильно признанию вины.)
+    - Rejecting the offer is tantamount to losing the opportunity. (Отклонение предложения равносильно потере возможности.)
+
+31. **Ubiquity** (Повсеместность)
+    - The ubiquity of social media influences daily life. (Повсеместность социальных сетей влияет на повседневную жизнь.)
+    - The ubiquity of fast-food chains is remarkable. (Повсеместность сетей быстрого питания замечательна.)
+
+32. **Vacillate** (Колебаться)
+    - He tends to vacillate when making decisions. (Он склонен колебаться при принятии решений.)
+    - She vacillated between two job offers. (Она колебалась между двумя предложениями о работе.)
+
+33. **Vicissitude** (Перемена, превратность)
+    - They adapted to the vicissitudes of the new environment. (Они адаптировались к переменам новой среды.)
+    - The book describes the vicissitudes of the protagonist's life. (Книга описывает превратности жизни главного героя.)
+
+34. **Vilify** (Очернять, порочить)
+    - The media often vilifies public figures. (СМИ часто очерняют общественных деятелей.)
+    - He was vilified for his controversial opinions. (Его порочили за его спорные мнения.)
+
+35. **Volition** (Воля, желание)
+    - She joined the project of her own volition. (Она присоединилась к проекту по своей воле.)
+    - He acted on his own volition and not under pressure. (Он действовал по своему желанию, а не под давлением.)
+
+36. **Zeitgeist** (Дух времени)
+    - The film captures the zeitgeist of the 1980s. (Фильм передает дух времени 1980-х годов.)
+    - The book reflects the zeitgeist of the post-war era. (Книга отражает дух времени послевоенной эпохи.)
+
+37. **Zenith** (Зенит)
+    - She reached the zenith of her career last year. (Она достигла зенита своей карьеры в прошлом году.)
+    - The sun was at its zenith at noon. (Солнце было в зените в полдень.)
+
 
 # Course Area
 
