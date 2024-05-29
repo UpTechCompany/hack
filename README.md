@@ -86,31 +86,33 @@
 
 ```mermaid
 graph TD;
-    A[Start] --> B[Enter initial 5-letter word]
-    B --> C[Enter number of players (2-4)]
-    C --> D[Initialize Game]
-    D --> E[Load Dictionary]
-    E --> F[Set Initial Board State]
-    F --> G[Game Loop]
-    G --> H{Is Game Over?}
-    H -->|No| I[Display Board]
-    I --> J[Player's Turn: Enter row, col, and letter]
-    J --> K{Skip Turn?}
-    K -->|Yes| L[Skip Turn]
-    L --> M[Display Scores]
-    M --> G
-    K -->|No| N{Valid Placement?}
-    N -->|No| O[Invalid Move, Retry]
-    O --> G
-    N -->|Yes| P[Add Letter to Board]
-    P --> Q[Find and Validate Words]
-    Q --> R{Found Valid Words?}
-    R -->|Yes| S[Update Scores]
-    S --> M
-    R -->|No| T[Continue]
-    T --> M
-    H -->|Yes| U[Game Over]
-    U --> V[Display Final Scores]
-    V --> W[End]
+    A[Начало] --> B[Введите начальное 5-буквенное слово];
+    B --> C{Введите количество игроков 2-4?};
+    C --> D[Инициализировать игру];
+    D --> E[Загрузить словарь];
+    E --> F[Установить начальное состояние доски];
+    F --> G[Игровой цикл];
+    G --> H{Игра завершена?};
+    H -->|Нет| I[Отобразить доску];
+    I --> J[Ход игрока: Введите строку, столбец и букву];
+    J --> K{Пропустить ход?};
+    K -->|Да| L[Пропустить ход];
+    L --> M[Отобразить счет];
+    M --> G;
+    K -->|Нет| N{Корректное размещение?};
+    N -->|Нет| O[Некорректный ход, Повторить];
+    O --> G;
+    N -->|Да| P[Добавить букву на доску];
+    P --> Q[Найти и проверить слова];
+    Q --> R{Найдены допустимые слова?};
+    R -->|Да| S[Обновить счет];
+    S --> M;
+    R -->|Нет| T[Продолжить];
+    T --> M;
+    H -->|Да| U[Игра завершена];
+    U --> V[Отобразить финальные очки];
+    V --> W[Конец];
+
+
 
 ```
