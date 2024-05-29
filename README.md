@@ -84,7 +84,6 @@
 
 ### Блок-схема
 
-```markdown
 ```mermaid
 flowchart TD
     A[Start] --> B[Enter initial 5-letter word]
