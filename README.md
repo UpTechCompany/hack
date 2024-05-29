@@ -85,10 +85,10 @@
 ### Блок-схема
 
 ```mermaid
-flowchart TD
+graph TD;
     A[Start] --> B[Enter initial 5-letter word]
     B --> C[Enter number of players (2-4)]
-    C --> D{Initialize Game}
+    C --> D[Initialize Game]
     D --> E[Load Dictionary]
     E --> F[Set Initial Board State]
     F --> G[Game Loop]
@@ -112,4 +112,5 @@ flowchart TD
     H -->|Yes| U[Game Over]
     U --> V[Display Final Scores]
     V --> W[End]
+
 ```
